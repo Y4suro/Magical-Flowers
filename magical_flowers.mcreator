@@ -1,0 +1,60 @@
+{
+  "mod_elements": [
+    {
+      "name": "Magicalflowerstab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicalflowerstab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Blockofpetals",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockofpetals",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/models/item/blockofpetals.json",
+          "src/main/java/net/mcreator/magicalflowers/block/BlockofpetalsBlock.java",
+          "src/main/resources/assets/magical_flowers/blockstates/blockofpetals.json",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/blockofpetals.json",
+          "src/main/resources/assets/magical_flowers/models/block/blockofpetals.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.magical_flowers.magicalflowerstab": "Magical Flowers",
+      "block.magical_flowers.blockofpetals": "Block of Petals"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "magical_flowers",
+    "modName": "Magical Flowers",
+    "version": "1.0.0",
+    "author": "prove, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.magicalflowers"
+  },
+  "mcreatorVersion": 202400232117
+}

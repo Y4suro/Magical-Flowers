@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "magical_flowers:block/blockofpetals",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "magical_flowers:block/blockofpetals"
+    },
+    "axis=z": {
+      "model": "magical_flowers:block/blockofpetals",
+      "x": 90
+    }
+  }
+}
