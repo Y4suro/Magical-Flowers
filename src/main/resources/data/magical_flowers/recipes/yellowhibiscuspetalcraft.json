@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magical_flowers:yellowhibiscus"
+    }
+  ],
+  "result": {
+    "item": "magical_flowers:yellowhibiscuspetal",
+    "count": 1
+  }
+}

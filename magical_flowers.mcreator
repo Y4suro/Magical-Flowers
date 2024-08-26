@@ -25,6 +25,368 @@
           "src/main/resources/assets/magical_flowers/models/block/blockofpetals.json"
         ]
       }
+    },
+    {
+      "name": "Whiterose",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whiterose",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/worldgen/placed_feature/whiterose.json",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/whiterose.json",
+          "src/main/resources/data/magical_flowers/worldgen/configured_feature/whiterose.json",
+          "src/main/resources/assets/magical_flowers/models/block/whiterose.json",
+          "src/main/resources/assets/magical_flowers/blockstates/whiterose.json",
+          "src/main/java/net/mcreator/magicalflowers/block/WhiteroseBlock.java",
+          "src/main/resources/assets/magical_flowers/models/item/whiterose.json",
+          "src/main/resources/data/magical_flowers/forge/biome_modifier/whiterose_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Whiterosepetal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whiterosepetal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magicalflowers/item/WhiterosepetalItem.java",
+          "src/main/resources/assets/magical_flowers/models/item/whiterosepetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Whiterosepetalcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whiterosepetalcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/white_rose_petal.json"
+        ]
+      }
+    },
+    {
+      "name": "Magicalflowersadvencement",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicalflowersadvencement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/advancements/magicalflowersadvencement.json"
+        ]
+      }
+    },
+    {
+      "name": "Pinklillyflower",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinklillyflower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/forge/biome_modifier/pinklillyflower_biome_modifier.json",
+          "src/main/resources/assets/magical_flowers/blockstates/pinklillyflower.json",
+          "src/main/resources/data/magical_flowers/worldgen/configured_feature/pinklillyflower.json",
+          "src/main/resources/assets/magical_flowers/models/item/pinklillyflower.json",
+          "src/main/resources/assets/magical_flowers/models/block/pinklillyflower.json",
+          "src/main/java/net/mcreator/magicalflowers/block/PinklillyflowerBlock.java",
+          "src/main/resources/data/magical_flowers/worldgen/placed_feature/pinklillyflower.json",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/pinklillyflower.json"
+        ]
+      }
+    },
+    {
+      "name": "Icon",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/models/item/icon.json",
+          "src/main/java/net/mcreator/magicalflowers/item/IconItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pinklillypetal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinklillypetal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magicalflowers/item/PinklillypetalItem.java",
+          "src/main/resources/assets/magical_flowers/models/item/pinklillypetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Pinklilypetalcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinklilypetalcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/pinklilypetalcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Orangegerbera",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangegerbera",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/blockstates/orangegerbera.json",
+          "src/main/resources/data/magical_flowers/worldgen/placed_feature/orangegerbera.json",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/orangegerbera.json",
+          "src/main/resources/data/magical_flowers/forge/biome_modifier/orangegerbera_biome_modifier.json",
+          "src/main/java/net/mcreator/magicalflowers/block/OrangegerberaBlock.java",
+          "src/main/resources/data/magical_flowers/worldgen/configured_feature/orangegerbera.json",
+          "src/main/resources/assets/magical_flowers/models/item/orangegerbera.json",
+          "src/main/resources/assets/magical_flowers/models/block/orangegerbera.json"
+        ]
+      }
+    },
+    {
+      "name": "Orangegerberapetal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangegerberapetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/models/item/orangegerberapetal.json",
+          "src/main/java/net/mcreator/magicalflowers/item/OrangegerberapetalItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Orangegerberapetalcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangegerberapetalcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/orangegerberapetalcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Anthurium",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anthurium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/blockstates/anthurium.json",
+          "src/main/java/net/mcreator/magicalflowers/block/AnthuriumBlock.java",
+          "src/main/resources/data/magical_flowers/worldgen/configured_feature/anthurium.json",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/anthurium.json",
+          "src/main/resources/assets/magical_flowers/models/block/anthurium_bottom.json",
+          "src/main/resources/data/magical_flowers/forge/biome_modifier/anthurium_biome_modifier.json",
+          "src/main/resources/assets/magical_flowers/models/block/anthurium.json",
+          "src/main/resources/data/magical_flowers/worldgen/placed_feature/anthurium.json",
+          "src/main/resources/assets/magical_flowers/models/item/anthurium.json"
+        ]
+      }
+    },
+    {
+      "name": "Anthuriumpetal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anthuriumpetal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magicalflowers/item/AnthuriumpetalItem.java",
+          "src/main/resources/assets/magical_flowers/models/item/anthuriumpetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Anthuriumpetalcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anthuriumpetalcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/anthuriumpetalcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Yellowhibiscus",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowhibiscus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magicalflowers/block/YellowhibiscusBlock.java",
+          "src/main/resources/assets/magical_flowers/models/block/yellowhibiscus.json",
+          "src/main/resources/data/magical_flowers/forge/biome_modifier/yellowhibiscus_biome_modifier.json",
+          "src/main/resources/data/magical_flowers/worldgen/placed_feature/yellowhibiscus.json",
+          "src/main/resources/data/magical_flowers/worldgen/configured_feature/yellowhibiscus.json",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/yellowhibiscus.json",
+          "src/main/resources/assets/magical_flowers/blockstates/yellowhibiscus.json",
+          "src/main/resources/assets/magical_flowers/models/item/yellowhibiscus.json"
+        ]
+      }
+    },
+    {
+      "name": "Yellowhibiscuspetal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowhibiscuspetal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/magicalflowers/item/YellowhibiscuspetalItem.java",
+          "src/main/resources/assets/magical_flowers/models/item/yellowhibiscuspetal.json"
+        ]
+      }
+    },
+    {
+      "name": "Yellowhibiscuspetalcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowhibiscuspetalcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/yellowhibiscuspetalcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Purplecanterburybells",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplecanterburybells",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/models/item/purplecanterburybells.json",
+          "src/main/resources/assets/magical_flowers/models/block/purplecanterburybells.json",
+          "src/main/resources/data/magical_flowers/worldgen/configured_feature/purplecanterburybells.json",
+          "src/main/resources/data/magical_flowers/worldgen/placed_feature/purplecanterburybells.json",
+          "src/main/java/net/mcreator/magicalflowers/block/PurplecanterburybellsBlock.java",
+          "src/main/resources/data/magical_flowers/loot_tables/blocks/purplecanterburybells.json",
+          "src/main/resources/assets/magical_flowers/blockstates/purplecanterburybells.json",
+          "src/main/resources/data/magical_flowers/forge/biome_modifier/purplecanterburybells_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Purplecanterburybellspetal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplecanterburybellspetal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/magical_flowers/models/item/purplecanterburybellspetal.json",
+          "src/main/java/net/mcreator/magicalflowers/item/PurplecanterburybellspetalItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Purplecanterburybellspetalcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplecanterburybellspetalcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/purplecanterburybellspetalcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Whitecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/whitecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Pinkcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pinkcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/pinkcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Orangecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/orangecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Redcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/redcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Yellowcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/yellowcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Purplecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magical_flowers/recipes/purplecraft.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -33,8 +395,23 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
+      "item.magical_flowers.icon": "Icon",
+      "item.magical_flowers.pinklillypetal": "Pink Lily Petal",
+      "block.magical_flowers.anthurium": "Anthurium",
+      "advancements.magicalflowersadvencement.descr": "Get any type of flower from the Magical Flowers mod !",
       "item_group.magical_flowers.magicalflowerstab": "Magical Flowers",
-      "block.magical_flowers.blockofpetals": "Block of Petals"
+      "block.magical_flowers.purplecanterburybells": "Purple Canterbury Bells",
+      "block.magical_flowers.whiterose": "White Rose",
+      "block.magical_flowers.pinklillyflower": "Pink Lily Flower",
+      "block.magical_flowers.blockofpetals": "Block of Petals",
+      "block.magical_flowers.orangegerbera": "Orange Gerbera",
+      "item.magical_flowers.yellowhibiscuspetal": "Yellow Hibiscus Petal",
+      "item.magical_flowers.orangegerberapetal": "Orangegerberapetal",
+      "item.magical_flowers.whiterosepetal": "White Rose Petal",
+      "item.magical_flowers.purplecanterburybellspetal": "Purple Canterbury Bells Petal",
+      "block.magical_flowers.yellowhibiscus": "Yellow Hibiscus",
+      "item.magical_flowers.anthuriumpetal": "Anthurium Petal",
+      "advancements.magicalflowersadvencement.title": "Magical Flowers !"
     }
   },
   "foldersRoot": {

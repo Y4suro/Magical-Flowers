@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "magical_flowers:block/white_rose",
+    "particle": "magical_flowers:block/white_rose"
+  },
+  "render_type": "cutout"
+}

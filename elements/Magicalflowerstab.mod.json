@@ -4,8 +4,8 @@
   "definition": {
     "name": "Magical Flowers",
     "icon": {
-      "value": "CUSTOM:Blockofpetals"
+      "value": "CUSTOM:Icon"
     },
-    "showSearch": true
+    "showSearch": false
   }
 }

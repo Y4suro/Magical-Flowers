@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "white_rose_petal",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magical_flowers:whiterose"
+    }
+  ],
+  "result": {
+    "item": "magical_flowers:whiterosepetal",
+    "count": 1
+  }
+}

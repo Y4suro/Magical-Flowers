@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "magical_flowers:item/yellow_hibiscus_petal"
+  }
+}

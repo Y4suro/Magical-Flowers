@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "magical_flowers:blocks/purplecanterburybells",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "magical_flowers:purplecanterburybells"
+        }
+      ]
+    }
+  ]
+}

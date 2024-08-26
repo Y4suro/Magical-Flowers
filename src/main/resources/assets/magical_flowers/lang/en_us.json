@@ -1,4 +1,19 @@
 {
+  "item.magical_flowers.icon": "Icon",
+  "item.magical_flowers.pinklillypetal": "Pink Lily Petal",
+  "block.magical_flowers.anthurium": "Anthurium",
+  "advancements.magicalflowersadvencement.descr": "Get any type of flower from the Magical Flowers mod !",
   "item_group.magical_flowers.magicalflowerstab": "Magical Flowers",
-  "block.magical_flowers.blockofpetals": "Block of Petals"
+  "block.magical_flowers.purplecanterburybells": "Purple Canterbury Bells",
+  "block.magical_flowers.whiterose": "White Rose",
+  "block.magical_flowers.pinklillyflower": "Pink Lily Flower",
+  "block.magical_flowers.blockofpetals": "Block of Petals",
+  "block.magical_flowers.orangegerbera": "Orange Gerbera",
+  "item.magical_flowers.yellowhibiscuspetal": "Yellow Hibiscus Petal",
+  "item.magical_flowers.orangegerberapetal": "Orangegerberapetal",
+  "item.magical_flowers.whiterosepetal": "White Rose Petal",
+  "item.magical_flowers.purplecanterburybellspetal": "Purple Canterbury Bells Petal",
+  "block.magical_flowers.yellowhibiscus": "Yellow Hibiscus",
+  "item.magical_flowers.anthuriumpetal": "Anthurium Petal",
+  "advancements.magicalflowersadvencement.title": "Magical Flowers !"
 }

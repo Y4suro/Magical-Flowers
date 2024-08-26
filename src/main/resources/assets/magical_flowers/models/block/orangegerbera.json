@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "magical_flowers:block/orange_gerbera",
+    "particle": "magical_flowers:block/orange_gerbera"
+  },
+  "render_type": "cutout"
+}

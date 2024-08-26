@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "magical_flowers:blocks/anthurium",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "magical_flowers:anthurium",
+          "conditions": [
+            {
+              "block": "magical_flowers:anthurium",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

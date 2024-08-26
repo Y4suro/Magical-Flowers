@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magical_flowers:orangegerbera"
+    }
+  ],
+  "result": {
+    "item": "magical_flowers:orangegerberapetal",
+    "count": 1
+  }
+}

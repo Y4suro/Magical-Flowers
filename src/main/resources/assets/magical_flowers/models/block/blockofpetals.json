@@ -1,8 +1,13 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "magical_flowers:block/block_of_petals",
-    "particle": "magical_flowers:block/block_of_petals"
+    "down": "magical_flowers:block/petal_block",
+    "up": "magical_flowers:block/petal_block",
+    "north": "magical_flowers:block/petal_block",
+    "east": "magical_flowers:block/petal_block",
+    "south": "magical_flowers:block/petal_block",
+    "west": "magical_flowers:block/petal_block",
+    "particle": "magical_flowers:block/petal_block"
   },
-  "render_type": "solid"
+  "render_type": "cutout"
 }

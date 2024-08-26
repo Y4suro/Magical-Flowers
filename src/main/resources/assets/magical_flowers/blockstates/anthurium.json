@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "magical_flowers:block/anthurium"
+    },
+    "half=lower": {
+      "model": "magical_flowers:block/anthurium_bottom"
+    }
+  }
+}
